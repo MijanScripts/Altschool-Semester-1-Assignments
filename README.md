@@ -1,3 +1,4 @@
 ﻿# Altschool-Semester-1-Assignments
 
-The assign-links.html has a link to access the rest of the assignments
+This repo contains all of the assignments that were given to us by our web dev instructor in the first semester at Altschool
+
